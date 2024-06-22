@@ -111,6 +111,7 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 超级综艺,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
 金牌综艺,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
 电影,#genre#
+绝地狙击,https://v3.yzzy1-play.com/20240529/50079_69b0d94c/2000k/hls/mixed.m3u8
 纳米危机,https://dow.dowlz16.com/20240622/15377_f5de5a6d/狙击精英之纳米危机.mp4
 步步倾心 ,#genre#
 1,https://dow.dowlz16.com/20240328/13549_f204d71d/步步倾心01.mp4
