@@ -1,0 +1,15 @@
+电影,#genre#
+火之女,https://svipsvip.ffzy-online5.com/20231222/21336_39d8e5c0/2000k/hls/mixed.m3u8
+电视剧,#genre#
+1,https://super.ffzy-online6.com/20240720/34960_353ec12a/2000k/hls/mixed.m3u8
+2,https://super.ffzy-online6.com/20240720/34961_b7dd4f7f/2000k/hls/mixed.m3u8
+3,https://super.ffzy-online6.com/20240720/34962_246c2795/index.m3u8
+4,https://super.ffzy-online6.com/20240720/34963_b2f270d5/index.m3u8
+5,https://super.ffzy-online6.com/20240720/34964_2e4304a0/2000k/hls/mixed.m3u8
+6,https://super.ffzy-online6.com/20240720/34965_b85f34ae/2000k/hls/mixed.m3u8
+7,https://super.ffzy-online6.com/20240720/34966_b909141f/2000k/hls/mixed.m3u8
+8,https://super.ffzy-online6.com/20240721/34997_251beb6c/2000k/hls/mixed.m3u8
+9,https://super.ffzy-online6.com/20240722/35056_de948879/2000k/hls/mixed.m3u8
+10,https://super.ffzy-online6.com/20240723/35105_f463e46e/2000k/hls/mixed.m3u8
+11,https://super.ffzy-online6.com/20240724/35170_0fca7e07/2000k/hls/mixed.m3u8
+12,https://super.ffzy-online6.com/20240725/35218_d32b42dd/2000k/hls/mixed.m3u8
