@@ -11,7 +11,6 @@ CCTV-5+高清,http://58.250.155.2:8180/TV00000000000000000004@HHZT
 经典老歌,#genre#
 老歌,https://vd4.bdstatic.com/mda-nd3au1ey6tub05er/sc/cae_h264_delogo/1649059875966223462/mda-nd3au1ey6tub05er.mp4
 斗鱼音乐,http://epg.112114.xyz/douyu/3186217
-韩宝仪,https://vdse.bdstatic.com//42d5ac65a9070eeab2513bf6bc65ea4d.mp4
 央视高清,#genre#
 CCTV-1,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 CCTV-2,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225588/index.m3u8
